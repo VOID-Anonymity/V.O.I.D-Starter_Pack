@@ -29,11 +29,11 @@
 
 ```bash
 # Стянуть свиток из архива
-git clone [https://github.com/VOID-Anonymity/V.O.I.D-Starter_Pack.git](https://github.com/VOID-Anonymity/V.O.I.D-Starter_Pack.git)
+git clone https://github.com/VOID-Anonymity/V.O.I.D-Starter_Pack.git
 cd V.O.I.D-Starter_Pack
 
 # Даровать право на исполнение
-chmod +x sh.sh
+chmod +x Starter-pack.sh
 
 # Начать обряд (требуются права Властелина)
-sudo ./sh.sh
+sudo ./Starter-pack.sh
