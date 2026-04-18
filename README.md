@@ -1,6 +1,6 @@
 # 🌑 V.O.I.D™ Starter Pack
 
-**V.O.I.D Starter Pack** — это ритуальный скрипт для автоматической перековки систем на базе Debian/Ubuntu/Mint. Он превращает свежеустановленную ОС в укрепленную цитадель, готовую к работе, анонимности и цифровым сражениям.
+**V.O.I.D™ Starter Pack** — это ритуальный скрипт для автоматической перековки систем на базе Debian/Ubuntu/Mint. Он превращает свежеустановленную ОС в укрепленную цитадель, готовую к работе, анонимности и цифровым сражениям.
 
 <p align="center">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages7.alphacoders.com%2F138%2Fthumb-1920-1382819.png&f=1&nofb=1&ipt=197e21e3815d1cca60d1383ec4e0de45ce7af8a3a4835530203dd7de120dbd21" width="900">
@@ -26,7 +26,7 @@
 
 Для активации скрипта в своей обители, используй следующие заклинания:
 
-```bash
+```
 # Стянуть свиток из архива
 git clone https://github.com/VOID-Anonymity/V.O.I.D-Starter_Pack.git
 cd V.O.I.D-Starter_Pack
