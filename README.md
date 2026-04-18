@@ -3,7 +3,7 @@
 **V.O.I.D Starter Pack** — это ритуальный скрипт для автоматической перековки систем на базе Debian/Ubuntu/Mint. Он превращает свежеустановленную ОС в укрепленную цитадель, готовую к работе, анонимности и цифровым сражениям.
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/8d/69/0b/8d690b5fca55ce4dfb5fee4412bb92b1.jpg" width="900">
+  <img src="https://i.pinimg.com/736x/8d/69/0b/8d690b5fca55ce4dfb5fee4412bb92b1.jpg" width="1000">
 </p>
 
 > "Свобода — это твой единственный закон."
